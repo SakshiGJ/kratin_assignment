@@ -31,7 +31,6 @@ body  {
 					</div>
 				</div>
 		
-
 		
 
 				<div id="page">
